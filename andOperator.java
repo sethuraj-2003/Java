@@ -7,6 +7,7 @@ public class andOperator {
             System.out.println("entry allowed");
         }else{
             System.out.println("not allowed");
+            System.out.println("a");
         }
     }
 }
