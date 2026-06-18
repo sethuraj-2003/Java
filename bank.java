@@ -5,6 +5,7 @@ public class bank {
         int balance = 20000;
         Scanner sc = new Scanner(System.in);
          System.out.print("Sethu bank Details:");
+         System.out.print("MR.Sethraj");
         System.out.print("Enter Your Withdrawal amount:");
         int withdraw = sc.nextInt();
     
