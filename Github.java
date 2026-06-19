@@ -4,7 +4,7 @@ class github{
 
 System.out.print("Hello Sethuraj san");
 System.out.print("Sayonara Prithika San");
-System.out.println(Please leave my Github);
+System.out.println("Please leave my Github");
     }
 
 }
